@@ -1,0 +1,1 @@
+{"name":"canary-mkt","owner":{"name":"kuploy"},"plugins":[{"name":"canary","source":"./plugins/canary","description":"Test only: refuses the command `echo plugin-canary`, nothing else"}]}

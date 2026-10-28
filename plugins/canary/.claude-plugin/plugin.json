@@ -1,0 +1,1 @@
+{"name":"canary","version":"0.0.3","description":"Test only: refuses the command `echo plugin-canary`, nothing else"}
